@@ -1,4 +1,4 @@
-//  38.1.6 multicatchblocks.java
+//38.1.6 multicatchblocks.java
 package q11331;
 
 public class MultiCatchBlocks {
