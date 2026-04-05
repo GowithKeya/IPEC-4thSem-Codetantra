@@ -43,17 +43,12 @@
 
 <br>
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
 ## 👨‍💻 Author
 
 **Kartik Mainwal**  
-IPEC Student | 2nd Year (4th Semester)
+IPEC Student 
 
 ---
